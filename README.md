@@ -14,7 +14,7 @@ Data Storage	3
 Data Preparation	3
 Model Training	3
 Hyperparameters	3
-Model Deployment	3
+Model Deployment	
 
  
 Semantic Content Recommendation System
