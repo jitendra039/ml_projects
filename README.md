@@ -14,7 +14,7 @@ Data Storage	3
 Data Preparation	3
 Model Training	3
 Hyperparameters	3
-Model Deployment	
+Model Deployment 3	
 
  
 Semantic Content Recommendation System
@@ -51,11 +51,17 @@ Ingestion
 •	
 
 Design
+
 Data Gathering/Source
+
 Data Storage
+
 Data Preparation
+
 Model Training
+
 Hyperparameters
+
 Model Deployment
 
 
