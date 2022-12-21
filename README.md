@@ -1,23 +1,38 @@
 
 Table of Contents
+
 Use Case:	2
+
 Example	2
+
 Requirement Gathering	2
+
 FAQ	2
+
 Business	2
+
 End user	2
+
 Data Source	2
+
 Storage	2
+
 Design	3
+
 Data Gathering/Source	3
+
 Data Storage	3
+
 Data Preparation	3
+
 Model Training	3
+
 Hyperparameters	3
+
 Model Deployment 3	
 
  
-Semantic Content Recommendation System
+                                        Semantic Content Recommendation System
 
 Use Case:
 Develop a machine learning model which will recommend number of articles to analysts in a company that they should read to make better investment decision.
